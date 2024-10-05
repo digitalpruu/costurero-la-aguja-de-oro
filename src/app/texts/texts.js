@@ -26,7 +26,7 @@ const textos = {
             p1: "Costurero la Aguja de Oro",
             p2: slogan,
         },
-        address: "",
+        address: email,
         phone: numeroWhatsApp,
         email: email,
         facebook: "https://www.facebook.com/profile.php?id=61565527634366&mibextid=ZbWKwL",
